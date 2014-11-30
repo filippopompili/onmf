@@ -1,0 +1,8 @@
+Onpmf code needs the following two files:
+
+1) nnlsm_blockpivot.m
+2) solveNormalEqComb.m
+
+They can be found in the zip file at:
+http://www.cc.gatech.edu/~hpark/software/nmf_bpas.zip
+
